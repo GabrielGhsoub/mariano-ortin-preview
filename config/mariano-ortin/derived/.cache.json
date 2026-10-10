@@ -1,0 +1,2357 @@
+{
+  "version": 2,
+  "entries": {
+    "casa-de-la-novia/accesorios-novia.jpg": {
+      "hash": "ca3d8ef127b1a6b8ed23080fa7a154c2ff80831074a99ef6ec034d2820c281e4",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB8QAAICAQQDAAAAAAAAAAAAAAECAxEABBIhMUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwBdVqqmEcTGRVFu/v4ME1Eaqom3xpIrFXB5BFiuPGZj1kDK7DYxtUB2iurwNRzf/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/zapatos-ramo.jpg": {
+      "hash": "3419ad5c91ab0dce8f996b5069ba049c51f0af0dbc1f389e78595766df3ca177",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAfEAACAgIBBQAAAAAAAAAAAAABAgMRACExEkFhccH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AcpDwgu5iKtZBIvXzKpGqIymQuWYsOrnfbDwxIY1BUG+fOP4sar1lSHX/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/vestido-ventana.jpg": {
+      "hash": "8513975927576fd5b936385e422f0050effe72da90a267fd52a8bf34e0cf79cf",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAABAwMDBQAAAAAAAAAAAAABAgMRAAQSBSIxBkFRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAASIf/aAAwDAQACEQMRAD8AS1BtLj7j+IG3Dj7NBX8sW5eKDiCBMd6pV8H3U71a4sMWzYO1SiSPMRU506f/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/liga-zapatos.jpg": {
+      "hash": "ee9a1b9ed3a0c9e5ef6aa7033fdc1e050e9b5c2940bfd9bd7dff5ab3f1c778b7",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIRAAMEEgUhEzFhQf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8AvlcNshLQ8JeGO0e4j8+zRlviMi27soDoLbBY6LMR0Ip8OxzCmx11PU/a0xiXRixkhiJNToxAmZgLd//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/ramo-casa-novia.jpg": {
+      "hash": "64ae801d49830289537796fb1ac0545e5d9543ab48cd130c281ad7a603cf4672",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDBAAREiEFoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBIUH/2gAMAwEAAhEDEQA/AB06L8HdIkMrvpGftVXQ7+YseJWOrJLMkfLida795mVrlhKjBZSAdZZb1k1XUzMRo4YbseH/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/maquillaje-bn.jpg": {
+      "hash": "a2e342341029dbc388a0b8eadd3e2406f26a5ba664885daa553601a72157a1b0",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQMCAAQRBRIhMRMyUeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8An0Jtsi1Z5EQYdoJz2O6GtG2ZbhkFLiNmAR9/KwrO4auczCZGRzRe2ZiQT7d8UH//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/vestido-pasillo.jpg": {
+      "hash": "ec50a6affc88a204fd7f1f17bca3335b709091829e84a244240c4ec6929fd47a",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIQAAIBAwIHAAAAAAAAAAAAAAIDAQAEERJhITJCUbHR4f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwAWLnWoW4PIWSZSJcOnHmnHfKFjgboSlYRIiI98e6w3tObiB1zpxE4zt9qS85Z2nFB//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/vestido-madre.jpg": {
+      "hash": "14876027e6e1a3ab153ec6f5115e6bdfd23ef5aafab6fadf6ceb2a8d4fc297ce",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAgIABAcAAAAAAAAAAAABAgMEABEFEhMhFSJBUXGh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCgtNKY7BeNVPKuiG5h64BUZ4KcdiUh5F8qsrb7Dv8AeD+K3rXFY457MjI0qqVB0CN+wxydFbgTkqNnqk/Oz+YH/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/corse-bn.jpg": {
+      "hash": "ebdddfcde61c279d85ccd56e8474bd699393b8315585820fd4c30aeb0ceea92e",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACEQAAIBBAICAwAAAAAAAAAAAAECBAADERIFISJhUXHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM6Hxe0QSGttow6boDHz+Ut/ig0W43iCgLBsYB9fdRRpskJqLza4xj1QlyLrWjs5NB//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/fotografo-casa-novia-bn.jpg": {
+      "hash": "90910dd2065051cdfd3d6810cf84ea3eb0047d985a441924c2999a6b9d1d175f",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB4QAAEEAwEBAQAAAAAAAAAAAAECAwQRABIhBRMi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMvzTFM6PHcgNyA6hNkqrQds4HsNxlOrVDZ+TFUn88VRPcjhvuNxV6K1Pe13HS3nHIR3UVUeXgf/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.jpg"
+      ]
+    },
+    "casa-de-la-novia/madrina.jpg": {
+      "hash": "b74dbf376cb1df318c1c8645fa2cbdc5917e1e228a2ac8a98591c4a0ee259599",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-400.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-800.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.avif",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-400.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-800.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.webp",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-400.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-800.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.jpg",
+            "config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQRBSESExQjMlHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AyodPKaY5ROK5fHid0B+UrWrRg24QMkceXdhuzH1QQXUy3EDLIQ3LxmrLi6n6eTuHcGgqNw//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.jpg"
+      ]
+    },
+    "ceremonia/anillos.jpg": {
+      "hash": "a92e2839eae6e1b40b6e607fcf7a61802dde9f0dec71fa590e20db6ce0960d59",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/ceremonia/anillos-400.avif",
+            "config/mariano-ortin/derived/ceremonia/anillos-800.avif",
+            "config/mariano-ortin/derived/ceremonia/anillos-1200.avif",
+            "config/mariano-ortin/derived/ceremonia/anillos-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/ceremonia/anillos-400.webp",
+            "config/mariano-ortin/derived/ceremonia/anillos-800.webp",
+            "config/mariano-ortin/derived/ceremonia/anillos-1200.webp",
+            "config/mariano-ortin/derived/ceremonia/anillos-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/ceremonia/anillos-400.jpg",
+            "config/mariano-ortin/derived/ceremonia/anillos-800.jpg",
+            "config/mariano-ortin/derived/ceremonia/anillos-1200.jpg",
+            "config/mariano-ortin/derived/ceremonia/anillos-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAhEAACAgICAQUAAAAAAAAAAAABAgMRAAQFIRIUMVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/AJtKIbHHNA80IZpAygt2K97r5xFxfpYdRSxiLqCnkreVj7wLGoHH7rV2Cnf6cc8MqnRVSq1V1WRGCF//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/anillos-1600.jpg"
+      ]
+    },
+    "ceremonia/beso-bn.jpg": {
+      "hash": "0a485f8527ee96b8de60d37c60deb6d5b324d5e366df472a27172559be8efb30",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/ceremonia/beso-bn-400.avif",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-800.avif",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-1200.avif",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/ceremonia/beso-bn-400.webp",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-800.webp",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-1200.webp",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/ceremonia/beso-bn-400.jpg",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-800.jpg",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-1200.jpg",
+            "config/mariano-ortin/derived/ceremonia/beso-bn-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDBBEhAAUTFCIxQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8An6Cn6yJyYGEEeh7dsRvZ4Hcz1568S008cztl1bWt6Ofvi9PftRUI0jmKqPgYHMC/K8luZnbJZySf3PA//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/beso-bn-1600.jpg"
+      ]
+    },
+    "ceremonia/sonrisas.jpg": {
+      "hash": "6807af9c7fdb0552391dfcdf7ca350ec81d1cd27a954eaf1a5441b853c6190bf",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/ceremonia/sonrisas-400.avif",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-800.avif",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-1200.avif",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/ceremonia/sonrisas-400.webp",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-800.webp",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-1200.webp",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/ceremonia/sonrisas-400.jpg",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-800.jpg",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-1200.jpg",
+            "config/mariano-ortin/derived/ceremonia/sonrisas-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACMQAAICAQMDBQAAAAAAAAAAAAECBBEDACFBBRITFDJhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAASARMh/9oADAMBAAIRAxEAPwA40DKIiCRkLqSaVTt2rz9nbSktzikDHEKo2dfaTQG/5davx1HoopAo+Hj5q9Y2XkdusZiWNh2AI2rjU1wyjFP/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/sonrisas-1600.jpg"
+      ]
+    },
+    "ceremonia/arena.jpg": {
+      "hash": "e6defae3593d94e20e687ecad262b371e98849fa6e08a89c07b4cac0441be7eb",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/ceremonia/arena-400.avif",
+            "config/mariano-ortin/derived/ceremonia/arena-800.avif",
+            "config/mariano-ortin/derived/ceremonia/arena-1200.avif",
+            "config/mariano-ortin/derived/ceremonia/arena-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/ceremonia/arena-400.webp",
+            "config/mariano-ortin/derived/ceremonia/arena-800.webp",
+            "config/mariano-ortin/derived/ceremonia/arena-1200.webp",
+            "config/mariano-ortin/derived/ceremonia/arena-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/ceremonia/arena-400.jpg",
+            "config/mariano-ortin/derived/ceremonia/arena-800.jpg",
+            "config/mariano-ortin/derived/ceremonia/arena-1200.jpg",
+            "config/mariano-ortin/derived/ceremonia/arena-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBRITFFFhITFBcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AuSbqrKWYvvkjG5eVvb9+6OtpHa6NzqDNGqKFBChvjAwO1aEwxjTTDsHHw4we1FWWnWryorRZXjPpuPnzQsxBT//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/arena-1600.jpg"
+      ]
+    },
+    "ceremonia/velas.jpg": {
+      "hash": "6f6c62fd657a60ee49a3e60140165008dc59b266abda6422871de28efe4c365e",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/ceremonia/velas-400.avif",
+            "config/mariano-ortin/derived/ceremonia/velas-800.avif",
+            "config/mariano-ortin/derived/ceremonia/velas-1200.avif",
+            "config/mariano-ortin/derived/ceremonia/velas-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/ceremonia/velas-400.webp",
+            "config/mariano-ortin/derived/ceremonia/velas-800.webp",
+            "config/mariano-ortin/derived/ceremonia/velas-1200.webp",
+            "config/mariano-ortin/derived/ceremonia/velas-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/ceremonia/velas-400.jpg",
+            "config/mariano-ortin/derived/ceremonia/velas-800.jpg",
+            "config/mariano-ortin/derived/ceremonia/velas-1200.jpg",
+            "config/mariano-ortin/derived/ceremonia/velas-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAACAQMDBQEAAAAAAAAAAAABAgMABBESITEFBhMiQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8ApQdMjgttauwzg5A4qX3FZyS23mtXjkEfs4IBP6KTaSOLZG1tlcAb/KLeSMxdCRpYbgADPNGGpf/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/velas-1600.jpg"
+      ]
+    },
+    "ceremonia/playa-altar.jpg": {
+      "hash": "05eacf1f26a2be5f97780ab483950a0f9d5c0bdd1b6fc8fcdefb89cf77779950",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/ceremonia/playa-altar-400.avif",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-800.avif",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-1200.avif",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/ceremonia/playa-altar-400.webp",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-800.webp",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-1200.webp",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/ceremonia/playa-altar-400.jpg",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-800.jpg",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-1200.jpg",
+            "config/mariano-ortin/derived/ceremonia/playa-altar-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EAB8QAAMAAgICAwAAAAAAAAAAAAECAxEhAAUEEiJRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAwDAQACEQMRAD8Ao8ajiaVn6WuSWJbbAHePocWnaRq73yqUiQrMgyaDhdExfrPKd/kwgWBIzsA75nOvYiNWzssoP7xR/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-altar-1600.jpg"
+      ]
+    },
+    "ceremonia/playa-beso.jpg": {
+      "hash": "a6e4fee5581baa57c85d1a358d3b4167e6177e9c57a1d52336550092b75a8d1e",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/ceremonia/playa-beso-400.avif",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-800.avif",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-1200.avif",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/ceremonia/playa-beso-400.webp",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-800.webp",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-1200.webp",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/ceremonia/playa-beso-400.jpg",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-800.jpg",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-1200.jpg",
+            "config/mariano-ortin/derived/ceremonia/playa-beso-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACAQAAIDAAEEAwAAAAAAAAAAAAECAwQRAAUVIVEiQeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAAMAAAAAAAAAAAAAAAAAAgABEv/aAAwDAQACEQMRAD8AvuWrYvVoar5GQWf4DGHrfr94nuAktGnYmdZGIIOeFb1vCAlfIOHeZ+zI8nWHZ2JJlUbwFaV1Ejkz/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/ceremonia/playa-beso-1600.jpg"
+      ]
+    },
+    "novios/playa-mar.jpg": {
+      "hash": "842ad338c4525adcd0a84a34da007b12301e39832e53b5f32f0178a7441d64b8",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/playa-mar-400.avif",
+            "config/mariano-ortin/derived/novios/playa-mar-800.avif",
+            "config/mariano-ortin/derived/novios/playa-mar-1200.avif",
+            "config/mariano-ortin/derived/novios/playa-mar-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/playa-mar-400.webp",
+            "config/mariano-ortin/derived/novios/playa-mar-800.webp",
+            "config/mariano-ortin/derived/novios/playa-mar-1200.webp",
+            "config/mariano-ortin/derived/novios/playa-mar-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/playa-mar-400.jpg",
+            "config/mariano-ortin/derived/novios/playa-mar-800.jpg",
+            "config/mariano-ortin/derived/novios/playa-mar-1200.jpg",
+            "config/mariano-ortin/derived/novios/playa-mar-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAAIBBAEFAAAAAAAAAAAAAAECAwAFESFBBBMUIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIT/9oADAMBAAIRAxEAPwDYF1aX0gdTK2kBGs8UjpL1KYB5UkfdBIJQZBHFRwMY3Dppl2D8oREka4RQBR0KH//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/playa-mar-1600.jpg"
+      ]
+    },
+    "novios/retrato-bn.jpg": {
+      "hash": "eda24f2971d2484712db329c283256d170de729b9de8982e45ba864c2237da2b",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/retrato-bn-400.avif",
+            "config/mariano-ortin/derived/novios/retrato-bn-800.avif",
+            "config/mariano-ortin/derived/novios/retrato-bn-1200.avif",
+            "config/mariano-ortin/derived/novios/retrato-bn-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/retrato-bn-400.webp",
+            "config/mariano-ortin/derived/novios/retrato-bn-800.webp",
+            "config/mariano-ortin/derived/novios/retrato-bn-1200.webp",
+            "config/mariano-ortin/derived/novios/retrato-bn-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/retrato-bn-400.jpg",
+            "config/mariano-ortin/derived/novios/retrato-bn-800.jpg",
+            "config/mariano-ortin/derived/novios/retrato-bn-1200.jpg",
+            "config/mariano-ortin/derived/novios/retrato-bn-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgAFAgcAAAAAAAAAAAAAAQIAAwQhUQUGERUiQVKiwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDOUlOlSqS2cISwuey8L/ImnSzLCg5N8wztgDm9NbzHqYP1bp1KegsiuQBiA//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-bn-1600.jpg"
+      ]
+    },
+    "novios/retrato-cerca-bn.jpg": {
+      "hash": "f82ade5e0237f5402f509d69108c8545e15586ef6bfc76912d7b0e5167b0f7de",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-400.avif",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-800.avif",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.avif",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-400.webp",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-800.webp",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.webp",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-400.jpg",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-800.jpg",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.jpg",
+            "config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAHxAAAgICAwADAAAAAAAAAAAAAQMCEQQFABIhFCJh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AD+u1wyUsa4GEIrkYyPnaXN+5RiM1kH42OEFc4rNiuxqyAPzlcPMeddBZYTCMfBQ84ek9nxwrt9Luq4H/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.jpg"
+      ]
+    },
+    "novios/sombrilla.jpg": {
+      "hash": "b0fad2543e1e64902a4ba0da26008eff16e4a3a1b98c02d8140fd66fa0b31b2c",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/sombrilla-400.avif",
+            "config/mariano-ortin/derived/novios/sombrilla-800.avif",
+            "config/mariano-ortin/derived/novios/sombrilla-1200.avif",
+            "config/mariano-ortin/derived/novios/sombrilla-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/sombrilla-400.webp",
+            "config/mariano-ortin/derived/novios/sombrilla-800.webp",
+            "config/mariano-ortin/derived/novios/sombrilla-1200.webp",
+            "config/mariano-ortin/derived/novios/sombrilla-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/sombrilla-400.jpg",
+            "config/mariano-ortin/derived/novios/sombrilla-800.jpg",
+            "config/mariano-ortin/derived/novios/sombrilla-1200.jpg",
+            "config/mariano-ortin/derived/novios/sombrilla-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAJRAAAQMCAwkAAAAAAAAAAAAAAQIDBAARBRIxEyI1UWFxscHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAIDAAAAAAAAAAAAAAAAAAABAiFB/9oADAMBAAIRAxEAPwC2X3HpUeKgJsRbME6dT9yppGKXzNqUcid0hQJBsazsP45E7+jRTQEyHwNNqrzS40GH/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/sombrilla-1600.jpg"
+      ]
+    },
+    "novios/barca.jpg": {
+      "hash": "7e4a66a3eb7da15cfb92acf45cbe1076efc5b41fd80d079d7dd5fd6e29da8eda",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/barca-400.avif",
+            "config/mariano-ortin/derived/novios/barca-800.avif",
+            "config/mariano-ortin/derived/novios/barca-1200.avif",
+            "config/mariano-ortin/derived/novios/barca-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/barca-400.webp",
+            "config/mariano-ortin/derived/novios/barca-800.webp",
+            "config/mariano-ortin/derived/novios/barca-1200.webp",
+            "config/mariano-ortin/derived/novios/barca-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/barca-400.jpg",
+            "config/mariano-ortin/derived/novios/barca-800.jpg",
+            "config/mariano-ortin/derived/novios/barca-1200.jpg",
+            "config/mariano-ortin/derived/novios/barca-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIF/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQREgUhMTJBcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAACMQEh/9oADAMBAAIRAxEAPwBt+cladY7dpXAVmYaZ6Az1TPzE3I20sOiBHGpDMFP3Wfa3c0CMImC+e9Bn9xUp6A/NTZuQZT//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/barca-1600.jpg"
+      ]
+    },
+    "novios/ancla.jpg": {
+      "hash": "64ffd3b623684e26b017b1041eb1d246b2ea3e77f149ad5368b750f378f00b96",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/ancla-400.avif",
+            "config/mariano-ortin/derived/novios/ancla-800.avif",
+            "config/mariano-ortin/derived/novios/ancla-1200.avif",
+            "config/mariano-ortin/derived/novios/ancla-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/ancla-400.webp",
+            "config/mariano-ortin/derived/novios/ancla-800.webp",
+            "config/mariano-ortin/derived/novios/ancla-1200.webp",
+            "config/mariano-ortin/derived/novios/ancla-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/ancla-400.jpg",
+            "config/mariano-ortin/derived/novios/ancla-800.jpg",
+            "config/mariano-ortin/derived/novios/ancla-1200.jpg",
+            "config/mariano-ortin/derived/novios/ancla-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIDEQAEBRIhMVGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AsUTmFollZVQWbY0OsPG51wdomKgNRJYjlQxeiRZNtlkcWx8n3mTtsjojBWocz8yQf//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/ancla-1600.jpg"
+      ]
+    },
+    "novios/patio-piedra.jpg": {
+      "hash": "bd2f6ddcdf68554d330ec2817bf81b1fd4a1d65b594312fa114e597f3451c96d",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/patio-piedra-400.avif",
+            "config/mariano-ortin/derived/novios/patio-piedra-800.avif",
+            "config/mariano-ortin/derived/novios/patio-piedra-1200.avif",
+            "config/mariano-ortin/derived/novios/patio-piedra-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/patio-piedra-400.webp",
+            "config/mariano-ortin/derived/novios/patio-piedra-800.webp",
+            "config/mariano-ortin/derived/novios/patio-piedra-1200.webp",
+            "config/mariano-ortin/derived/novios/patio-piedra-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/patio-piedra-400.jpg",
+            "config/mariano-ortin/derived/novios/patio-piedra-800.jpg",
+            "config/mariano-ortin/derived/novios/patio-piedra-1200.jpg",
+            "config/mariano-ortin/derived/novios/patio-piedra-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIxBRMiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBPHrK7a0Aj4+yUhgRVCib/ADJhqMNqZ3PFiWQqR0c2YCRMHv5LZU/WG6qySBnUFmIBNd5ML//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/patio-piedra-1600.jpg"
+      ]
+    },
+    "novios/jardin.jpg": {
+      "hash": "b63113a76b5ac77f4b833b75662fff7e2935f9fe1a0f81add1fa83963379df86",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/jardin-400.avif",
+            "config/mariano-ortin/derived/novios/jardin-800.avif",
+            "config/mariano-ortin/derived/novios/jardin-1200.avif",
+            "config/mariano-ortin/derived/novios/jardin-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/jardin-400.webp",
+            "config/mariano-ortin/derived/novios/jardin-800.webp",
+            "config/mariano-ortin/derived/novios/jardin-1200.webp",
+            "config/mariano-ortin/derived/novios/jardin-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/jardin-400.jpg",
+            "config/mariano-ortin/derived/novios/jardin-800.jpg",
+            "config/mariano-ortin/derived/novios/jardin-1200.jpg",
+            "config/mariano-ortin/derived/novios/jardin-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAeEAACAgIDAQEAAAAAAAAAAAABAwIRAAQSIUEjMf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAIRAf/aAAwDAQACEQMRAD8AiZqunvJWEFaJsquJAqvLx9yDUSXBeuZcPeNmsq3nMiwSEu1kGJI/CesTT2GPX9SJkHomIvI41Wif/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/jardin-1600.jpg"
+      ]
+    },
+    "novios/porche.jpg": {
+      "hash": "220ba2e3f8318eac6b7e32b639501b1067b1f1f33f346e588e6d2e5d3fa0ff21",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/porche-400.avif",
+            "config/mariano-ortin/derived/novios/porche-800.avif",
+            "config/mariano-ortin/derived/novios/porche-1200.avif",
+            "config/mariano-ortin/derived/novios/porche-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/porche-400.webp",
+            "config/mariano-ortin/derived/novios/porche-800.webp",
+            "config/mariano-ortin/derived/novios/porche-1200.webp",
+            "config/mariano-ortin/derived/novios/porche-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/porche-400.jpg",
+            "config/mariano-ortin/derived/novios/porche-800.jpg",
+            "config/mariano-ortin/derived/novios/porche-1200.jpg",
+            "config/mariano-ortin/derived/novios/porche-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAfEAEAAgICAgMAAAAAAAAAAAABAgQDEQAhEkEyYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8ADWoSs3itjMmmWlFNHt3wmfDkLdnpDFOQHfro5WpWMtUlLDIjJ0L4i6/eHkrPJN+Upqv3ydwn/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/porche-1600.jpg"
+      ]
+    },
+    "novios/castillo.jpg": {
+      "hash": "a2c724bc9c76a55994aaa245e86338b03dd85b0bf2070b4609bf8513f8f18966",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/castillo-400.avif",
+            "config/mariano-ortin/derived/novios/castillo-800.avif",
+            "config/mariano-ortin/derived/novios/castillo-1200.avif",
+            "config/mariano-ortin/derived/novios/castillo-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/castillo-400.webp",
+            "config/mariano-ortin/derived/novios/castillo-800.webp",
+            "config/mariano-ortin/derived/novios/castillo-1200.webp",
+            "config/mariano-ortin/derived/novios/castillo-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/castillo-400.jpg",
+            "config/mariano-ortin/derived/novios/castillo-800.jpg",
+            "config/mariano-ortin/derived/novios/castillo-1200.jpg",
+            "config/mariano-ortin/derived/novios/castillo-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQREiExBUEiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI/M73NzBbxoSdchgeO+fytDFGyPsS2GUfH0O6NtokuFs5Jl2ZY9gT95pZmJZcn0Kkb/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/castillo-1600.jpg"
+      ]
+    },
+    "novios/firma.jpg": {
+      "hash": "a248d2bd1608e4755caa299d25ba9b11fff1a5c32f4644a29345722bcb650e8f",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/firma-400.avif",
+            "config/mariano-ortin/derived/novios/firma-800.avif",
+            "config/mariano-ortin/derived/novios/firma-1200.avif",
+            "config/mariano-ortin/derived/novios/firma-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/firma-400.webp",
+            "config/mariano-ortin/derived/novios/firma-800.webp",
+            "config/mariano-ortin/derived/novios/firma-1200.webp",
+            "config/mariano-ortin/derived/novios/firma-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/firma-400.jpg",
+            "config/mariano-ortin/derived/novios/firma-800.jpg",
+            "config/mariano-ortin/derived/novios/firma-1200.jpg",
+            "config/mariano-ortin/derived/novios/firma-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACEQAAICAQQCAwAAAAAAAAAAAAECAwQRAAUSIRMxIkHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/ABuULN6urRgqhxwj6ABHvv70iDc49vjijVPJG/JTyftcHH4ao32xLUsVoq7mOMgkqPWc6xJpWkRA/EgS9fEDQgZ2VW//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/firma-1600.jpg"
+      ]
+    },
+    "novios/piano.jpg": {
+      "hash": "cf60102e62583c731bdc718e17ccb8763ef31f1bd59ac861b9f26af57a4d4918",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/piano-400.avif",
+            "config/mariano-ortin/derived/novios/piano-800.avif",
+            "config/mariano-ortin/derived/novios/piano-1200.avif",
+            "config/mariano-ortin/derived/novios/piano-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/piano-400.webp",
+            "config/mariano-ortin/derived/novios/piano-800.webp",
+            "config/mariano-ortin/derived/novios/piano-1200.webp",
+            "config/mariano-ortin/derived/novios/piano-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/piano-400.jpg",
+            "config/mariano-ortin/derived/novios/piano-800.jpg",
+            "config/mariano-ortin/derived/novios/piano-1200.jpg",
+            "config/mariano-ortin/derived/novios/piano-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRABAAICAQMFAAAAAAAAAAAAAQIDABEEEhRRISIxQXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAiEDESL/2gAMAwEAAhEDEQA/ADKuRRKtkRlvfuB2nh/M1cLseNTCVl2rGHqAv3vWC8Oci7pFCcUkeTTlL1Nh8YMlp0UY+lZ//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/piano-1600.jpg"
+      ]
+    },
+    "novios/novia-sofa.jpg": {
+      "hash": "5230a5492160075d9fb7c0b0eed123aba6a0118e0f36efaac5286519a8288fb6",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/novia-sofa-400.avif",
+            "config/mariano-ortin/derived/novios/novia-sofa-800.avif",
+            "config/mariano-ortin/derived/novios/novia-sofa-1200.avif",
+            "config/mariano-ortin/derived/novios/novia-sofa-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/novia-sofa-400.webp",
+            "config/mariano-ortin/derived/novios/novia-sofa-800.webp",
+            "config/mariano-ortin/derived/novios/novia-sofa-1200.webp",
+            "config/mariano-ortin/derived/novios/novia-sofa-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/novia-sofa-400.jpg",
+            "config/mariano-ortin/derived/novios/novia-sofa-800.jpg",
+            "config/mariano-ortin/derived/novios/novia-sofa-1200.jpg",
+            "config/mariano-ortin/derived/novios/novia-sofa-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABAUREjFhkSEyUf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ACYzGRybZ34EEqW39SOtearxWd0E27I3hu/YqHi5pDi5yWJIbkCf3fdItMleS2hWSdiD8dDfupnX/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/novia-sofa-1600.jpg"
+      ]
+    },
+    "novios/parque.jpg": {
+      "hash": "8b05b516d8cc7a95042142383caafa85f9c15035697eb0d817cc6cde2f882677",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/parque-400.avif",
+            "config/mariano-ortin/derived/novios/parque-800.avif",
+            "config/mariano-ortin/derived/novios/parque-1200.avif",
+            "config/mariano-ortin/derived/novios/parque-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/parque-400.webp",
+            "config/mariano-ortin/derived/novios/parque-800.webp",
+            "config/mariano-ortin/derived/novios/parque-1200.webp",
+            "config/mariano-ortin/derived/novios/parque-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/parque-400.jpg",
+            "config/mariano-ortin/derived/novios/parque-800.jpg",
+            "config/mariano-ortin/derived/novios/parque-1200.jpg",
+            "config/mariano-ortin/derived/novios/parque-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIRAAMSIQQTMUFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIRAxEAPwALZpiFBiMgfH2sXmudMpcQyIY4rIE7pHGdmQBoInsR6q5dxwhho2BqozQv/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-1600.jpg"
+      ]
+    },
+    "novios/parque-estanque.jpg": {
+      "hash": "0e20aa58488867f82275e16fd8bc5d8915d0db9cd1d7bd1c088a33ce3f89e6ae",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/novios/parque-estanque-400.avif",
+            "config/mariano-ortin/derived/novios/parque-estanque-800.avif",
+            "config/mariano-ortin/derived/novios/parque-estanque-1200.avif",
+            "config/mariano-ortin/derived/novios/parque-estanque-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/novios/parque-estanque-400.webp",
+            "config/mariano-ortin/derived/novios/parque-estanque-800.webp",
+            "config/mariano-ortin/derived/novios/parque-estanque-1200.webp",
+            "config/mariano-ortin/derived/novios/parque-estanque-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/novios/parque-estanque-400.jpg",
+            "config/mariano-ortin/derived/novios/parque-estanque-800.jpg",
+            "config/mariano-ortin/derived/novios/parque-estanque-1200.jpg",
+            "config/mariano-ortin/derived/novios/parque-estanque-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB8QAAIBBAIDAAAAAAAAAAAAAAECAwAEERIFQRUhMf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwA25F4oNtWYsfQC/BUflbhEIlD647Ws03c6QoElYDGKW5MmzOSxx2akqQ2//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/novios/parque-estanque-1600.jpg"
+      ]
+    },
+    "banquete/convite-jardin.jpg": {
+      "hash": "b8f92210657ff5efc131c28eb58274311b561f635583726c6592c56e4eece246",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/banquete/convite-jardin-400.avif",
+            "config/mariano-ortin/derived/banquete/convite-jardin-800.avif",
+            "config/mariano-ortin/derived/banquete/convite-jardin-1200.avif",
+            "config/mariano-ortin/derived/banquete/convite-jardin-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/banquete/convite-jardin-400.webp",
+            "config/mariano-ortin/derived/banquete/convite-jardin-800.webp",
+            "config/mariano-ortin/derived/banquete/convite-jardin-1200.webp",
+            "config/mariano-ortin/derived/banquete/convite-jardin-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/banquete/convite-jardin-400.jpg",
+            "config/mariano-ortin/derived/banquete/convite-jardin-800.jpg",
+            "config/mariano-ortin/derived/banquete/convite-jardin-1200.jpg",
+            "config/mariano-ortin/derived/banquete/convite-jardin-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIhAAAgECBQUAAAAAAAAAAAAAAQIDABIEBREhMRVRYqHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oADAMBAAIRAxEAPwDBfLVSeSIXOy+QH2qdDuhaRcTELeVJJPqkO7XX66N3G1OgZpMMpcliSwJPO3FFF//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-jardin-1600.jpg"
+      ]
+    },
+    "banquete/convite-exteriores.jpg": {
+      "hash": "96ec95a914c566ee1a143e7fad61ff6b9ae48ce6387c25407a4de596314d89cb",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/banquete/convite-exteriores-400.avif",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-800.avif",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-1200.avif",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/banquete/convite-exteriores-400.webp",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-800.webp",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-1200.webp",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/banquete/convite-exteriores-400.jpg",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-800.jpg",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-1200.jpg",
+            "config/mariano-ortin/derived/banquete/convite-exteriores-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEG/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIDABEhBAUSEyMyUdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDPzaCLrBVmObjwNF9viFuMzgm2Gj+Gg7s+XYk+yajdwjnmoo//2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-exteriores-1600.jpg"
+      ]
+    },
+    "banquete/lanzar-ramo.jpg": {
+      "hash": "f879035edfafc6394aa0b50c26a7835bfae2acf32b90443bff5f7f705466cbd1",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-400.avif",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-800.avif",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-1200.avif",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-400.webp",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-800.webp",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-1200.webp",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-400.jpg",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-800.jpg",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-1200.jpg",
+            "config/mariano-ortin/derived/banquete/lanzar-ramo-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIE/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQASFAQFQSEjMVFxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAwDAQACEQMRAD8AjX5zW5PIaxscOQBCLo+HmsWTu5kW6c++2jrSqdWXw8VS7dN3M0a3Fyo3Hz+1KvBT/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/lanzar-ramo-1600.jpg"
+      ]
+    },
+    "banquete/tarta.jpg": {
+      "hash": "becfae38edcc3962e96d7306e8e3b1ce607027f52438d8dc9bb26b30eba429e7",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/banquete/tarta-400.avif",
+            "config/mariano-ortin/derived/banquete/tarta-800.avif",
+            "config/mariano-ortin/derived/banquete/tarta-1200.avif",
+            "config/mariano-ortin/derived/banquete/tarta-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/banquete/tarta-400.webp",
+            "config/mariano-ortin/derived/banquete/tarta-800.webp",
+            "config/mariano-ortin/derived/banquete/tarta-1200.webp",
+            "config/mariano-ortin/derived/banquete/tarta-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/banquete/tarta-400.jpg",
+            "config/mariano-ortin/derived/banquete/tarta-800.jpg",
+            "config/mariano-ortin/derived/banquete/tarta-1200.jpg",
+            "config/mariano-ortin/derived/banquete/tarta-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACMQAAICAQMDBQAAAAAAAAAAAAECAwQRACExEhNBUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/AHWMdomCUR2FclgXPGdwfb81PRistJamtohmcKgHV6eefjWnZAYN1AHB2yNBHVhex3GTLMd9zj640Ca3/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/tarta-1600.jpg"
+      ]
+    },
+    "banquete/beso-mejilla.jpg": {
+      "hash": "fe2683978750e50edc8c2fcedd9cb6ac95aed2a3590ca3b4a7236d3ce8c71c35",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/banquete/beso-mejilla-400.avif",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-800.avif",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-1200.avif",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/banquete/beso-mejilla-400.webp",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-800.webp",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-1200.webp",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/banquete/beso-mejilla-400.jpg",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-800.jpg",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-1200.jpg",
+            "config/mariano-ortin/derived/banquete/beso-mejilla-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCAAQRBRIhE2GRIjEyQlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECUWH/2gAMAwEAAhEDEQA/AJW17YKWlEEdVuPVxwOw/TQdTWWImz6yPxMBHbz7eKy9PZNd6icJYkDkHvStZuGsZHfMnAOPNBy9Gq4f/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/beso-mejilla-1600.jpg"
+      ]
+    },
+    "banquete/castillo-santa-barbara.jpg": {
+      "hash": "b7b8ed456d96edc2194d9b4a57fa49a24084e2c4edd9de20fdc686a3d1393fec",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.avif",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.avif",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.avif",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.webp",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.webp",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.webp",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.jpg",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.jpg",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.jpg",
+            "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQRIRIiQYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAABAgASEyEx/9oADAMBAAIRAxEAPwCMUqyjTQEgZJDNr1ig39xcK3ERow8Bckn7TLU4Gqzp+lwSutkVeR20TFFHBP/Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.jpg"
+      ]
+    },
+    "banquete/convite-montana.jpg": {
+      "hash": "cefec218e869a52047c6b415d42ed5715cb852482b5e5425eb4ca8d5bf6f2909",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 900,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/banquete/convite-montana-400.avif",
+            "config/mariano-ortin/derived/banquete/convite-montana-800.avif",
+            "config/mariano-ortin/derived/banquete/convite-montana-1200.avif",
+            "config/mariano-ortin/derived/banquete/convite-montana-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/banquete/convite-montana-400.webp",
+            "config/mariano-ortin/derived/banquete/convite-montana-800.webp",
+            "config/mariano-ortin/derived/banquete/convite-montana-1200.webp",
+            "config/mariano-ortin/derived/banquete/convite-montana-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/banquete/convite-montana-400.jpg",
+            "config/mariano-ortin/derived/banquete/convite-montana-800.jpg",
+            "config/mariano-ortin/derived/banquete/convite-montana-1200.jpg",
+            "config/mariano-ortin/derived/banquete/convite-montana-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgP/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMABBEFEoETITJBQv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACQRH/2gAMAwEAAhEDEQA/ADbaiZcoyp1ASDtUkDHNRupJZkYRTGJu/wAAcZJNG18BVLj1U1sbHwcn/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/banquete/convite-montana-1600.jpg"
+      ]
+    },
+    "proofing/pareja-ejemplo/patio-piedra.jpg": {
+      "hash": "bd2f6ddcdf68554d330ec2817bf81b1fd4a1d65b594312fa114e597f3451c96d",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIxBRMiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBPHrK7a0Aj4+yUhgRVCib/ADJhqMNqZ3PFiWQqR0c2YCRMHv5LZU/WG6qySBnUFmIBNd5ML//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.jpg"
+      ]
+    },
+    "proofing/pareja-ejemplo/jardin.jpg": {
+      "hash": "b63113a76b5ac77f4b833b75662fff7e2935f9fe1a0f81add1fa83963379df86",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAeEAACAgIDAQEAAAAAAAAAAAABAwIRAAQSIUEjMf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAIRAf/aAAwDAQACEQMRAD8AiZqunvJWEFaJsquJAqvLx9yDUSXBeuZcPeNmsq3nMiwSEu1kGJI/CesTT2GPX9SJkHomIvI41Wif/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.jpg"
+      ]
+    },
+    "proofing/pareja-ejemplo/porche.jpg": {
+      "hash": "220ba2e3f8318eac6b7e32b639501b1067b1f1f33f346e588e6d2e5d3fa0ff21",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAfEAEAAgICAgMAAAAAAAAAAAABAgQDEQAhEkEyYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8ADWoSs3itjMmmWlFNHt3wmfDkLdnpDFOQHfro5WpWMtUlLDIjJ0L4i6/eHkrPJN+Upqv3ydwn/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.jpg"
+      ]
+    },
+    "proofing/pareja-ejemplo/castillo.jpg": {
+      "hash": "a2c724bc9c76a55994aaa245e86338b03dd85b0bf2070b4609bf8513f8f18966",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQREiExBUEiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI/M73NzBbxoSdchgeO+fytDFGyPsS2GUfH0O6NtokuFs5Jl2ZY9gT95pZmJZcn0Kkb/2Q=="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.jpg"
+      ]
+    },
+    "proofing/pareja-ejemplo/lanzar-ramo.jpg": {
+      "hash": "f879035edfafc6394aa0b50c26a7835bfae2acf32b90443bff5f7f705466cbd1",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIE/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQASFAQFQSEjMVFxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAwDAQACEQMRAD8AjX5zW5PIaxscOQBCLo+HmsWTu5kW6c++2jrSqdWXw8VS7dN3M0a3Fyo3Hz+1KvBT/9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.jpg"
+      ]
+    },
+    "proofing/pareja-ejemplo/parque-estanque.jpg": {
+      "hash": "0e20aa58488867f82275e16fd8bc5d8915d0db9cd1d7bd1c088a33ce3f89e6ae",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.avif",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.webp",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.jpg",
+            "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB8QAAIBBAIDAAAAAAAAAAAAAAECAwAEERIFQRUhMf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwA25F4oNtWYsfQC/BUflbhEIlD647Ws03c6QoElYDGKW5MmzOSxx2akqQ2//9k="
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.jpg"
+      ]
+    },
+    "site/hero.jpg": {
+      "hash": "842ad338c4525adcd0a84a34da007b12301e39832e53b5f32f0178a7441d64b8",
+      "params": "4a5d80cb3c54a6d4a00f5bf4da7e1778995923b4b483e88bf006cc409e395a5a",
+      "rendition": {
+        "width": 1600,
+        "height": 1067,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/site/hero-400.avif",
+            "config/mariano-ortin/derived/site/hero-800.avif",
+            "config/mariano-ortin/derived/site/hero-1200.avif",
+            "config/mariano-ortin/derived/site/hero-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/site/hero-400.webp",
+            "config/mariano-ortin/derived/site/hero-800.webp",
+            "config/mariano-ortin/derived/site/hero-1200.webp",
+            "config/mariano-ortin/derived/site/hero-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/site/hero-400.jpg",
+            "config/mariano-ortin/derived/site/hero-800.jpg",
+            "config/mariano-ortin/derived/site/hero-1200.jpg",
+            "config/mariano-ortin/derived/site/hero-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAAIBBAEFAAAAAAAAAAAAAAECAwAFESFBBBMUIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIT/9oADAMBAAIRAxEAPwDYF1aX0gdTK2kBGs8UjpL1KYB5UkfdBIJQZBHFRwMY3Dppl2D8oREka4RQBR0KH//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/hero-1600.jpg"
+      ]
+    },
+    "site/mariano.jpg": {
+      "hash": "c965c2ca474aa5a6746c4bcd6d3fe325d1f26967662c60c84464aff2560f0319",
+      "params": "f31618f87d12ee32fac62e2bcb8e2d6a48d03369211059dd80e3fb948b69f1c7",
+      "rendition": {
+        "width": 1600,
+        "height": 900,
+        "sources": {
+          "avif": [
+            "config/mariano-ortin/derived/site/mariano-400.avif",
+            "config/mariano-ortin/derived/site/mariano-800.avif",
+            "config/mariano-ortin/derived/site/mariano-1200.avif",
+            "config/mariano-ortin/derived/site/mariano-1600.avif"
+          ],
+          "webp": [
+            "config/mariano-ortin/derived/site/mariano-400.webp",
+            "config/mariano-ortin/derived/site/mariano-800.webp",
+            "config/mariano-ortin/derived/site/mariano-1200.webp",
+            "config/mariano-ortin/derived/site/mariano-1600.webp"
+          ],
+          "jpeg": [
+            "config/mariano-ortin/derived/site/mariano-400.jpg",
+            "config/mariano-ortin/derived/site/mariano-800.jpg",
+            "config/mariano-ortin/derived/site/mariano-1200.jpg",
+            "config/mariano-ortin/derived/site/mariano-1600.jpg"
+          ]
+        },
+        "widths": [
+          400,
+          800,
+          1200,
+          1600
+        ],
+        "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAiEAEAAgIBAgcAAAAAAAAAAAABAgMABAUREhMxMnFygcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AE4+mfj6s2lI12CqHSQv5iPP06vZTOqwlIXqCP24Zp+iPxyG/5Hvgf//Z"
+      },
+      "outputs": [
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-400.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-400.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-400.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-800.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-800.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-800.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-1200.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-1200.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-1200.jpg",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-1600.avif",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-1600.webp",
+        "/Users/gabriel/Documents/likwiid-frame/config/mariano-ortin/derived/site/mariano-1600.jpg"
+      ]
+    }
+  }
+}

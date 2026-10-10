@@ -1,0 +1,590 @@
+{
+  "slug": "mariano-ortin",
+  "archetype": "wedding",
+  "realBrand": false,
+  "brand": {
+    "name": "Mariano Ortín",
+    "logoText": "Mariano Ortín",
+    "primary": "#15130f",
+    "accent": "#d1a054",
+    "neutral": "#f4efe6",
+    "fontPairing": "editorial"
+  },
+  "languages": [
+    "es",
+    "en"
+  ],
+  "photographer": {
+    "name": "Mariano Ortín",
+    "portrait": "mariano.jpg",
+    "location": "Alicante, España",
+    "about": {
+      "es": "Mi nombre es Mariano Ortín, nací y vivo en Alicante. Soy fotógrafo de vocación e ingeniero informático de formación. Me dedico profesionalmente a la fotografía desde la era analógica, cuando revelaba mis fotografías en mi propio laboratorio químico. La fotografía de bodas es mi punto fuerte, donde explota mi creatividad como autor: una mezcla de lo tradicional y el fotoperiodismo, con los momentos sinceros e íntimos y también los retratos posados. Trabajo con un equipo de fotógrafos del estudio FotoAlicante.com, para que ningún momento del día se quede sin contar.",
+      "en": "My name is Mariano Ortín. I was born in Alicante and I still live here. A photographer by vocation and a computer engineer by training, I have worked professionally in photography since the analogue era, when I developed my pictures in my own darkroom. Wedding photography is where my creativity as an author comes alive: a blend of the traditional and photojournalism, the sincere and intimate moments as well as the posed portraits. I work with a team of photographers from the FotoAlicante.com studio, so no moment of the day goes untold."
+    }
+  },
+  "hero": {
+    "image": "hero.jpg",
+    "heading": {
+      "es": "Mariano Ortín",
+      "en": "Mariano Ortín"
+    },
+    "sub": {
+      "es": "Fotógrafo de bodas en Alicante. Creando historias con imágenes.",
+      "en": "Wedding photographer in Alicante. Creating stories with images."
+    },
+    "cta": "contact"
+  },
+  "galleries": [
+    {
+      "id": "casa-de-la-novia",
+      "title": {
+        "es": "Casa de la novia y del novio",
+        "en": "At the bride and groom homes"
+      },
+      "description": {
+        "es": "La mañana de la boda: peluquería, maquillaje, los detalles del traje y el momento de vestirse, con la familia alrededor.",
+        "en": "The wedding morning: hair, make up, the details of the outfit and the moment of getting dressed, with family all around."
+      },
+      "layout": "justified",
+      "location": "Alicante",
+      "images": [
+        {
+          "file": "accesorios-novia.jpg",
+          "alt": {
+            "es": "Zapatos, joyas, perfume y liga de la novia sobre un sofá de cuero",
+            "en": "Bride shoes, jewellery, perfume and garter laid out on a leather sofa"
+          },
+          "sell": true,
+          "featured": true
+        },
+        {
+          "file": "zapatos-ramo.jpg",
+          "alt": {
+            "es": "Zapatos y ramo de la novia sobre la cama, con cuadros azules en la pared",
+            "en": "Bride shoes and bouquet on the bed, blue paintings on the wall"
+          },
+          "sell": true
+        },
+        {
+          "file": "vestido-ventana.jpg",
+          "alt": {
+            "es": "La novia con el vestido puesto mientras su madre sostiene la cola",
+            "en": "The bride in her dress while her mother holds the train"
+          }
+        },
+        {
+          "file": "liga-zapatos.jpg",
+          "alt": {
+            "es": "Manos de la madre ajustando la liga y el zapato de la novia",
+            "en": "A mother adjusting the bride garter and shoe"
+          }
+        },
+        {
+          "file": "ramo-casa-novia.jpg",
+          "alt": {
+            "es": "La novia con el ramo de rosas amarillas rodeada de su familia",
+            "en": "The bride with her yellow rose bouquet surrounded by family"
+          },
+          "sell": true
+        },
+        {
+          "file": "maquillaje-bn.jpg",
+          "alt": {
+            "es": "Maquillaje de la novia en blanco y negro junto a la ventana",
+            "en": "Bride make up in black and white by the window"
+          }
+        },
+        {
+          "file": "vestido-pasillo.jpg",
+          "alt": {
+            "es": "La novia al fondo del pasillo, a contraluz, en blanco y negro",
+            "en": "The bride at the end of the corridor, backlit, in black and white"
+          }
+        },
+        {
+          "file": "vestido-madre.jpg",
+          "alt": {
+            "es": "La madre abrochando el vestido de la novia junto a la ventana",
+            "en": "The mother fastening the bride dress by the window"
+          }
+        },
+        {
+          "file": "corse-bn.jpg",
+          "alt": {
+            "es": "Detalle del corsé del vestido mientras lo atan, en blanco y negro",
+            "en": "Detail of the dress corset being laced, in black and white"
+          }
+        },
+        {
+          "file": "fotografo-casa-novia-bn.jpg",
+          "alt": {
+            "es": "La novia en casa mientras un familiar la fotografía con el móvil, en blanco y negro",
+            "en": "The bride at home while a relative photographs her with a phone, in black and white"
+          }
+        },
+        {
+          "file": "madrina.jpg",
+          "alt": {
+            "es": "La novia y dos acompañantes de perfil, con flores en el pelo",
+            "en": "The bride and two companions in profile, flowers in their hair"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ceremonia",
+      "title": {
+        "es": "Ceremonia",
+        "en": "Ceremony"
+      },
+      "description": {
+        "es": "En el juzgado, la iglesia, la playa o el lugar que elijan los novios. En comunicación constante con quien lleva el protocolo, para no perder detalle.",
+        "en": "At the registry, the church, the beach or wherever the couple chooses. In constant contact with whoever runs the protocol, so no detail is missed."
+      },
+      "layout": "justified",
+      "location": "Alicante",
+      "images": [
+        {
+          "file": "anillos.jpg",
+          "alt": {
+            "es": "Intercambio de anillos en una ceremonia al aire libre",
+            "en": "Exchange of rings at an outdoor ceremony"
+          },
+          "sell": true,
+          "featured": true
+        },
+        {
+          "file": "beso-bn.jpg",
+          "alt": {
+            "es": "El beso de los novios en blanco y negro",
+            "en": "The couple kiss in black and white"
+          }
+        },
+        {
+          "file": "sonrisas.jpg",
+          "alt": {
+            "es": "Los novios abrazados y sonrientes entre los invitados",
+            "en": "The couple embracing and smiling among the guests"
+          }
+        },
+        {
+          "file": "arena.jpg",
+          "alt": {
+            "es": "Los novios vertiendo arena de colores en la ceremonia",
+            "en": "The couple pouring coloured sand during the ceremony"
+          }
+        },
+        {
+          "file": "velas.jpg",
+          "alt": {
+            "es": "Una vela encendida junto a orquídeas blancas",
+            "en": "A candle being lit beside white orchids"
+          },
+          "sell": true
+        },
+        {
+          "file": "playa-altar.jpg",
+          "alt": {
+            "es": "Los novios bajo un arco de flores en la playa al atardecer",
+            "en": "The couple under a flower arch on the beach at dusk"
+          }
+        },
+        {
+          "file": "playa-beso.jpg",
+          "alt": {
+            "es": "Beso de los novios con el mar al fondo",
+            "en": "The couple kissing with the sea behind them"
+          }
+        }
+      ]
+    },
+    {
+      "id": "novios",
+      "title": {
+        "es": "Fotos de novios",
+        "en": "Couple portraits"
+      },
+      "description": {
+        "es": "Los recién casados justo después de la ceremonia: la playa, un castillo, un jardín o el estudio, siempre con el sello artístico que da valor a cada trabajo.",
+        "en": "The newlyweds right after the ceremony: the beach, a castle, a garden or the studio, always with the artistic touch that gives each piece of work its value."
+      },
+      "layout": "justified",
+      "location": "Alicante",
+      "images": [
+        {
+          "file": "playa-mar.jpg",
+          "alt": {
+            "es": "Los novios de espaldas mirando el mar al atardecer",
+            "en": "The couple from behind, looking at the sea at dusk"
+          },
+          "featured": true
+        },
+        {
+          "file": "retrato-bn.jpg",
+          "alt": {
+            "es": "Retrato de los novios junto a un espejo, en blanco y negro",
+            "en": "Portrait of the couple beside a mirror, in black and white"
+          }
+        },
+        {
+          "file": "retrato-cerca-bn.jpg",
+          "alt": {
+            "es": "Retrato cercano de los novios, en blanco y negro",
+            "en": "Close portrait of the couple, in black and white"
+          }
+        },
+        {
+          "file": "sombrilla.jpg",
+          "alt": {
+            "es": "Los novios con una sombrilla de encaje en un jardín",
+            "en": "The couple with a lace parasol in a garden"
+          }
+        },
+        {
+          "file": "barca.jpg",
+          "alt": {
+            "es": "Los novios delante de una barca azul con la montaña al fondo",
+            "en": "The couple in front of a blue boat with the mountain behind"
+          }
+        },
+        {
+          "file": "ancla.jpg",
+          "alt": {
+            "es": "Los novios junto a un ancla antigua",
+            "en": "The couple beside an old anchor"
+          }
+        },
+        {
+          "file": "patio-piedra.jpg",
+          "alt": {
+            "es": "Los novios en un patio de piedra con hiedra",
+            "en": "The couple in a stone courtyard with ivy"
+          }
+        },
+        {
+          "file": "jardin.jpg",
+          "alt": {
+            "es": "Los novios bajo un árbol en el jardín de una finca",
+            "en": "The couple under a tree in the garden of an estate"
+          }
+        },
+        {
+          "file": "porche.jpg",
+          "alt": {
+            "es": "Los novios abrazados bajo un porche de madera",
+            "en": "The couple embracing under a wooden porch"
+          }
+        },
+        {
+          "file": "castillo.jpg",
+          "alt": {
+            "es": "Los novios en la escalera de piedra de un castillo",
+            "en": "The couple on the stone staircase of a castle"
+          }
+        },
+        {
+          "file": "firma.jpg",
+          "alt": {
+            "es": "El novio besa la mano de la novia en la mesa de la firma",
+            "en": "The groom kisses the bride hand at the signing table"
+          }
+        },
+        {
+          "file": "piano.jpg",
+          "alt": {
+            "es": "El novio toca el piano mientras la novia escucha",
+            "en": "The groom plays the piano while the bride listens"
+          }
+        },
+        {
+          "file": "novia-sofa.jpg",
+          "alt": {
+            "es": "La novia recostada en un sofá antiguo con el ramo",
+            "en": "The bride reclining on an antique sofa with her bouquet"
+          }
+        },
+        {
+          "file": "parque.jpg",
+          "alt": {
+            "es": "Los novios entre la vegetación de un parque",
+            "en": "The couple among the greenery of a park"
+          }
+        },
+        {
+          "file": "parque-estanque.jpg",
+          "alt": {
+            "es": "Los novios junto a un estanque rodeado de palmeras",
+            "en": "The couple by a pond surrounded by palm trees"
+          }
+        }
+      ]
+    },
+    {
+      "id": "banquete",
+      "title": {
+        "es": "Banquete",
+        "en": "Reception"
+      },
+      "description": {
+        "es": "La llegada de los invitados, el lugar, la mesa principal, los discursos y los bailes. Siempre con permiso, y nunca mientras comen.",
+        "en": "The arrival of the guests, the venue, the top table, the speeches and the dances. Always with permission, and never while people eat."
+      },
+      "layout": "justified",
+      "location": "Alicante",
+      "images": [
+        {
+          "file": "convite-jardin.jpg",
+          "alt": {
+            "es": "Banquete nocturno en un jardín bajo guirnaldas de luces",
+            "en": "Night banquet in a garden under strings of lights"
+          },
+          "featured": true
+        },
+        {
+          "file": "convite-exteriores.jpg",
+          "alt": {
+            "es": "Mesas del banquete al aire libre bajo un techo de luces",
+            "en": "Outdoor banquet tables under a canopy of lights"
+          }
+        },
+        {
+          "file": "lanzar-ramo.jpg",
+          "alt": {
+            "es": "La novia lanza el ramo por encima de un seto",
+            "en": "The bride throws her bouquet over a hedge"
+          },
+          "sell": true
+        },
+        {
+          "file": "tarta.jpg",
+          "alt": {
+            "es": "Figuras de los novios en bicicleta sobre la tarta",
+            "en": "Bride and groom figures on a bicycle on the cake"
+          },
+          "sell": true
+        },
+        {
+          "file": "beso-mejilla.jpg",
+          "alt": {
+            "es": "El novio besa a la novia en la mejilla junto a unas rosas",
+            "en": "The groom kisses the bride on the cheek beside roses"
+          }
+        },
+        {
+          "file": "castillo-santa-barbara.jpg",
+          "alt": {
+            "es": "Banquete al anochecer con el castillo de Santa Bárbara iluminado al fondo",
+            "en": "Banquet at nightfall with Santa Barbara castle lit up behind"
+          }
+        },
+        {
+          "file": "convite-montana.jpg",
+          "alt": {
+            "es": "Banquete al aire libre al pie de la montaña al atardecer",
+            "en": "Outdoor banquet at the foot of the mountain at dusk"
+          }
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "fotografo-bodas",
+      "title": {
+        "es": "Fotógrafo para bodas",
+        "en": "Wedding photographer"
+      },
+      "description": {
+        "es": "Reportaje profesional de boda dirigido por Mariano Ortín, con el apoyo de otros dos fotógrafos del estudio cuando el día lo pide. Preboda, casa de la novia y del novio, ceremonia y banquete. Presupuesto sin compromiso.",
+        "en": "Professional wedding coverage led by Mariano Ortín, with two more photographers from the studio when the day calls for it. Pre wedding, the bride and groom homes, ceremony and reception. Quotes without obligation."
+      },
+      "image": "sonrisas.jpg"
+    },
+    {
+      "id": "videos-360",
+      "title": {
+        "es": "Vídeos 360º para bodas",
+        "en": "360 degree wedding video"
+      },
+      "description": {
+        "es": "Servicio de reportaje de vídeo 360º para bodas, con la experiencia de fotografiar y virtualizar negocios a 360º para Google Street View desde 2012.",
+        "en": "360 degree video coverage for weddings, backed by the experience of photographing and virtualising businesses in 360 degrees for Google Street View since 2012."
+      },
+      "image": "castillo-santa-barbara.jpg"
+    },
+    {
+      "id": "web-bodas",
+      "title": {
+        "es": "Página web para bodas",
+        "en": "Wedding website"
+      },
+      "description": {
+        "es": "Una web privada para la boda: los detalles del día, formulario de consultas, WhatsApp, lista de regalos, código QR para las invitaciones y descarga de fotos para los invitados. Opciones de uno o dos años.",
+        "en": "A private website for the wedding: the details of the day, an enquiry form, WhatsApp, a gift list, a QR code for the invitations and photo download for the guests. One or two year options."
+      },
+      "image": "playa-altar.jpg"
+    },
+    {
+      "id": "love-story",
+      "title": {
+        "es": "Love Story boda",
+        "en": "Love Story"
+      },
+      "description": {
+        "es": "El relato de vuestra historia de amor en imágenes, antes de la boda, para ilustrar el compromiso y dar contenido al álbum.",
+        "en": "The story of your relationship told in images before the wedding, to illustrate the engagement and give the album its opening pages."
+      },
+      "image": "beso-mejilla.jpg"
+    },
+    {
+      "id": "a-la-carta",
+      "title": {
+        "es": "Servicios a la carta",
+        "en": "A la carte services"
+      },
+      "description": {
+        "es": "Aparte de los packs, se pueden seleccionar a la carta: pedida de mano, prueba del vestido de novia, preparativos de boda, prueba de menú, preboda en la playa y postboda en la playa.",
+        "en": "Beyond the packages, pick what you need: the proposal, the dress fitting, the wedding preparations, the menu tasting, a pre wedding session on the beach and a post wedding session on the beach."
+      },
+      "image": "sombrilla.jpg"
+    }
+  ],
+  "inquiry": {
+    "email": "info@marianoortin.com",
+    "phone": "+34 666 77 17 27",
+    "whatsapp": "+34 965 11 39 39"
+  },
+  "proofing": [
+    {
+      "id": "pareja-ejemplo",
+      "clientName": "Pareja de ejemplo",
+      "password": "alicante",
+      "shootDate": "2026-09-19",
+      "includedSelects": 3,
+      "expiresNote": {
+        "es": "Sala de ejemplo con fotografías ya publicadas en marianoortin.com. En una entrega real, cada pareja recibe su propio enlace privado y la sala caduca treinta días después de publicarse.",
+        "en": "Sample room using photographs already published on marianoortin.com. In a real delivery each couple gets their own private link and the room expires thirty days after it is published."
+      },
+      "passwordHint": {
+        "es": "alicante",
+        "en": "alicante"
+      },
+      "demoSeed": {
+        "favorites": [
+          "jardin.jpg",
+          "castillo.jpg"
+        ],
+        "selects": [
+          "patio-piedra.jpg"
+        ],
+        "notes": {
+          "patio-piedra.jpg": "Esta para el álbum, en grande."
+        }
+      },
+      "images": [
+        {
+          "file": "patio-piedra.jpg",
+          "alt": {
+            "es": "Los novios en un patio de piedra con hiedra",
+            "en": "The couple in a stone courtyard with ivy"
+          }
+        },
+        {
+          "file": "jardin.jpg",
+          "alt": {
+            "es": "Los novios bajo un árbol en el jardín de una finca",
+            "en": "The couple under a tree in the garden of an estate"
+          }
+        },
+        {
+          "file": "porche.jpg",
+          "alt": {
+            "es": "Los novios abrazados bajo un porche de madera",
+            "en": "The couple embracing under a wooden porch"
+          }
+        },
+        {
+          "file": "castillo.jpg",
+          "alt": {
+            "es": "Los novios en la escalera de piedra de un castillo",
+            "en": "The couple on the stone staircase of a castle"
+          }
+        },
+        {
+          "file": "lanzar-ramo.jpg",
+          "alt": {
+            "es": "La novia lanza el ramo por encima de un seto",
+            "en": "The bride throws her bouquet over a hedge"
+          }
+        },
+        {
+          "file": "parque-estanque.jpg",
+          "alt": {
+            "es": "Los novios junto a un estanque rodeado de palmeras",
+            "en": "The couple by a pond surrounded by palm trees"
+          }
+        }
+      ]
+    }
+  ],
+  "shop": {
+    "currency": "EUR",
+    "products": [
+      {
+        "id": "copia-20x30",
+        "label": {
+          "es": "Copia fotográfica, precio de ejemplo",
+          "en": "Photographic print, sample price"
+        },
+        "kind": "print",
+        "size": "20 x 30 cm",
+        "price": 35
+      },
+      {
+        "id": "copia-30x45",
+        "label": {
+          "es": "Copia fotográfica, precio de ejemplo",
+          "en": "Photographic print, sample price"
+        },
+        "kind": "print",
+        "size": "30 x 45 cm",
+        "price": 60
+      },
+      {
+        "id": "enmarcada-30x45",
+        "label": {
+          "es": "Copia enmarcada, precio de ejemplo",
+          "en": "Framed print, sample price"
+        },
+        "kind": "framed",
+        "size": "30 x 45 cm",
+        "price": 120
+      }
+    ],
+    "galleries": [
+      "casa-de-la-novia",
+      "ceremonia",
+      "banquete"
+    ]
+  },
+  "seo": {
+    "description": {
+      "es": "Mariano Ortín, fotógrafo de bodas en Alicante. Reportajes de boda, vídeo 360º, página web para bodas y Love Story, con galería privada para cada pareja.",
+      "en": "Mariano Ortín, wedding photographer in Alicante. Wedding coverage, 360 degree video, wedding websites and Love Story sessions, with a private gallery for every couple."
+    },
+    "licensable": false
+  },
+  "strings": {
+    "es": {
+      "common.fictionalNotice": "Demostración privada creada por Likwiid para Mariano Ortín con fotografías ya publicadas en marianoortin.com. Nada de lo que ve es real: los precios de la tienda son de ejemplo, y los pagos, las selecciones y los mensajes se simulan.",
+      "shop.title": "Copias",
+      "nav.shop": "Copias"
+    },
+    "en": {
+      "common.fictionalNotice": "Private demonstration built by Likwiid for Mariano Ortín with photographs already published on marianoortin.com. Nothing here is real: shop prices are samples, and payments, selections and messages are simulated.",
+      "shop.title": "Prints",
+      "nav.shop": "Prints"
+    }
+  }
+}

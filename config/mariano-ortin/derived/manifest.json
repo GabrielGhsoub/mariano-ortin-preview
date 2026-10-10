@@ -1,0 +1,1502 @@
+{
+  "casa-de-la-novia": {
+    "accesorios-novia.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/accesorios-novia-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EAB8QAAICAQQDAAAAAAAAAAAAAAECAxEABBIhMUFRYf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIRAxEAPwBdVqqmEcTGRVFu/v4ME1Eaqom3xpIrFXB5BFiuPGZj1kDK7DYxtUB2iurwNRzf/9k="
+    },
+    "zapatos-ramo.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/zapatos-ramo-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAP/xAAfEAACAgIBBQAAAAAAAAAAAAABAgMRACExEkFhccH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AcpDwgu5iKtZBIvXzKpGqIymQuWYsOrnfbDwxIY1BUG+fOP4sar1lSHX/2Q=="
+    },
+    "vestido-ventana.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-ventana-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAiEAABAwMDBQAAAAAAAAAAAAABAgMRAAQSBSIxBkFRcYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAASIf/aAAwDAQACEQMRAD8AS1BtLj7j+IG3Dj7NBX8sW5eKDiCBMd6pV8H3U71a4sMWzYO1SiSPMRU506f/2Q=="
+    },
+    "liga-zapatos.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/liga-zapatos-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQID/8QAIBAAAgEEAgMBAAAAAAAAAAAAAQIRAAMEEgUhEzFhQf/EABUBAQEAAAAAAAAAAAAAAAAAAAME/8QAFxEAAwEAAAAAAAAAAAAAAAAAAQIRAP/aAAwDAQACEQMRAD8AvlcNshLQ8JeGO0e4j8+zRlviMi27soDoLbBY6LMR0Ip8OxzCmx11PU/a0xiXRixkhiJNToxAmZgLd//Z"
+    },
+    "ramo-casa-novia.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/ramo-casa-novia-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIDBAAREiEFoeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBIUH/2gAMAwEAAhEDEQA/AB06L8HdIkMrvpGftVXQ7+YseJWOrJLMkfLida795mVrlhKjBZSAdZZb1k1XUzMRo4YbseH/2Q=="
+    },
+    "maquillaje-bn.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/maquillaje-bn-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgQF/8QAIRAAAgEDBAMBAAAAAAAAAAAAAQMCAAQRBRIhMRMyUeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8An0Jtsi1Z5EQYdoJz2O6GtG2ZbhkFLiNmAR9/KwrO4auczCZGRzRe2ZiQT7d8UH//2Q=="
+    },
+    "vestido-pasillo.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-pasillo-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQMEBf/EACIQAAIBAwIHAAAAAAAAAAAAAAIDAQAEERJhITJCUbHR4f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwAWLnWoW4PIWSZSJcOnHmnHfKFjgboSlYRIiI98e6w3tObiB1zpxE4zt9qS85Z2nFB//9k="
+    },
+    "vestido-madre.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/vestido-madre-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQb/xAAkEAACAgIABAcAAAAAAAAAAAABAgMEABEFEhMhFSJBUXGh0f/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCgtNKY7BeNVPKuiG5h64BUZ4KcdiUh5F8qsrb7Dv8AeD+K3rXFY457MjI0qqVB0CN+wxydFbgTkqNnqk/Oz+YH/9k="
+    },
+    "corse-bn.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/corse-bn-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAQIEBf/EACEQAAIBBAICAwAAAAAAAAAAAAECBAADERIFISJhUXHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AM6Hxe0QSGttow6boDHz+Ut/ig0W43iCgLBsYB9fdRRpskJqLza4xj1QlyLrWjs5NB//2Q=="
+    },
+    "fotografo-casa-novia-bn.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/fotografo-casa-novia-bn-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB4QAAEEAwEBAQAAAAAAAAAAAAECAwQRABIhBRMi/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMvzTFM6PHcgNyA6hNkqrQds4HsNxlOrVDZ+TFUn88VRPcjhvuNxV6K1Pe13HS3nHIR3UVUeXgf/2Q=="
+    },
+    "madrina.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-400.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-800.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.avif",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-400.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-800.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.webp",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-400.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-800.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-1200.jpg",
+          "config/mariano-ortin/derived/casa-de-la-novia/madrina-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQRBSESExQjMlHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AyodPKaY5ROK5fHid0B+UrWrRg24QMkceXdhuzH1QQXUy3EDLIQ3LxmrLi6n6eTuHcGgqNw//2Q=="
+    }
+  },
+  "ceremonia": {
+    "anillos.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/ceremonia/anillos-400.avif",
+          "config/mariano-ortin/derived/ceremonia/anillos-800.avif",
+          "config/mariano-ortin/derived/ceremonia/anillos-1200.avif",
+          "config/mariano-ortin/derived/ceremonia/anillos-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/ceremonia/anillos-400.webp",
+          "config/mariano-ortin/derived/ceremonia/anillos-800.webp",
+          "config/mariano-ortin/derived/ceremonia/anillos-1200.webp",
+          "config/mariano-ortin/derived/ceremonia/anillos-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/ceremonia/anillos-400.jpg",
+          "config/mariano-ortin/derived/ceremonia/anillos-800.jpg",
+          "config/mariano-ortin/derived/ceremonia/anillos-1200.jpg",
+          "config/mariano-ortin/derived/ceremonia/anillos-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABgT/xAAhEAACAgICAQUAAAAAAAAAAAABAgMRAAQFIRIUMVFxgf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/AJtKIbHHNA80IZpAygt2K97r5xFxfpYdRSxiLqCnkreVj7wLGoHH7rV2Cnf6cc8MqnRVSq1V1WRGCF//2Q=="
+    },
+    "beso-bn.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/ceremonia/beso-bn-400.avif",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-800.avif",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-1200.avif",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/ceremonia/beso-bn-400.webp",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-800.webp",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-1200.webp",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/ceremonia/beso-bn-400.jpg",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-800.jpg",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-1200.jpg",
+          "config/mariano-ortin/derived/ceremonia/beso-bn-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQF/8QAIRAAAgICAgEFAAAAAAAAAAAAAQIDBBEhAAUTFCIxQWH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8An6Cn6yJyYGEEeh7dsRvZ4Hcz1568S008cztl1bWt6Ofvi9PftRUI0jmKqPgYHMC/K8luZnbJZySf3PA//9k="
+    },
+    "sonrisas.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/ceremonia/sonrisas-400.avif",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-800.avif",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-1200.avif",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/ceremonia/sonrisas-400.webp",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-800.webp",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-1200.webp",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/ceremonia/sonrisas-400.jpg",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-800.jpg",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-1200.jpg",
+          "config/mariano-ortin/derived/ceremonia/sonrisas-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgQFBv/EACMQAAICAQMDBQAAAAAAAAAAAAECBBEDACFBBRITFDJhgaH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABgRAAIDAAAAAAAAAAAAAAAAAAASARMh/9oADAMBAAIRAxEAPwA40DKIiCRkLqSaVTt2rz9nbSktzikDHEKo2dfaTQG/5davx1HoopAo+Hj5q9Y2XkdusZiWNh2AI2rjU1wyjFP/2Q=="
+    },
+    "arena.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/ceremonia/arena-400.avif",
+          "config/mariano-ortin/derived/ceremonia/arena-800.avif",
+          "config/mariano-ortin/derived/ceremonia/arena-1200.avif",
+          "config/mariano-ortin/derived/ceremonia/arena-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/ceremonia/arena-400.webp",
+          "config/mariano-ortin/derived/ceremonia/arena-800.webp",
+          "config/mariano-ortin/derived/ceremonia/arena-1200.webp",
+          "config/mariano-ortin/derived/ceremonia/arena-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/ceremonia/arena-400.jpg",
+          "config/mariano-ortin/derived/ceremonia/arena-800.jpg",
+          "config/mariano-ortin/derived/ceremonia/arena-1200.jpg",
+          "config/mariano-ortin/derived/ceremonia/arena-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQIG/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQIDAAQRBRITFFFhITFBcYH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERAv/aAAwDAQACEQMRAD8AuSbqrKWYvvkjG5eVvb9+6OtpHa6NzqDNGqKFBChvjAwO1aEwxjTTDsHHw4we1FWWnWryorRZXjPpuPnzQsxBT//Z"
+    },
+    "velas.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/ceremonia/velas-400.avif",
+          "config/mariano-ortin/derived/ceremonia/velas-800.avif",
+          "config/mariano-ortin/derived/ceremonia/velas-1200.avif",
+          "config/mariano-ortin/derived/ceremonia/velas-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/ceremonia/velas-400.webp",
+          "config/mariano-ortin/derived/ceremonia/velas-800.webp",
+          "config/mariano-ortin/derived/ceremonia/velas-1200.webp",
+          "config/mariano-ortin/derived/ceremonia/velas-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/ceremonia/velas-400.jpg",
+          "config/mariano-ortin/derived/ceremonia/velas-800.jpg",
+          "config/mariano-ortin/derived/ceremonia/velas-1200.jpg",
+          "config/mariano-ortin/derived/ceremonia/velas-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAiEAACAQMDBQEAAAAAAAAAAAABAgMABBESITEFBhMiQXH/xAAUAQEAAAAAAAAAAAAAAAAAAAAB/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8ApQdMjgttauwzg5A4qX3FZyS23mtXjkEfs4IBP6KTaSOLZG1tlcAb/KLeSMxdCRpYbgADPNGGpf/Z"
+    },
+    "playa-altar.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/ceremonia/playa-altar-400.avif",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-800.avif",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-1200.avif",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/ceremonia/playa-altar-400.webp",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-800.webp",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-1200.webp",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/ceremonia/playa-altar-400.jpg",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-800.jpg",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-1200.jpg",
+          "config/mariano-ortin/derived/ceremonia/playa-altar-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBv/EAB8QAAMAAgICAwAAAAAAAAAAAAECAxEhAAUEEiJRof/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAwDAQACEQMRAD8Ao8ajiaVn6WuSWJbbAHePocWnaRq73yqUiQrMgyaDhdExfrPKd/kwgWBIzsA75nOvYiNWzssoP7xR/9k="
+    },
+    "playa-beso.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/ceremonia/playa-beso-400.avif",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-800.avif",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-1200.avif",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/ceremonia/playa-beso-400.webp",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-800.webp",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-1200.webp",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/ceremonia/playa-beso-400.jpg",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-800.jpg",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-1200.jpg",
+          "config/mariano-ortin/derived/ceremonia/playa-beso-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBv/EACAQAAIDAAEEAwAAAAAAAAAAAAECAwQRAAUVIVEiQeH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFxEBAAMAAAAAAAAAAAAAAAAAAgABEv/aAAwDAQACEQMRAD8AvuWrYvVoar5GQWf4DGHrfr94nuAktGnYmdZGIIOeFb1vCAlfIOHeZ+zI8nWHZ2JJlUbwFaV1Ejkz/9k="
+    }
+  },
+  "novios": {
+    "playa-mar.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/playa-mar-400.avif",
+          "config/mariano-ortin/derived/novios/playa-mar-800.avif",
+          "config/mariano-ortin/derived/novios/playa-mar-1200.avif",
+          "config/mariano-ortin/derived/novios/playa-mar-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/playa-mar-400.webp",
+          "config/mariano-ortin/derived/novios/playa-mar-800.webp",
+          "config/mariano-ortin/derived/novios/playa-mar-1200.webp",
+          "config/mariano-ortin/derived/novios/playa-mar-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/playa-mar-400.jpg",
+          "config/mariano-ortin/derived/novios/playa-mar-800.jpg",
+          "config/mariano-ortin/derived/novios/playa-mar-1200.jpg",
+          "config/mariano-ortin/derived/novios/playa-mar-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAAIBBAEFAAAAAAAAAAAAAAECAwAFESFBBBMUIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIT/9oADAMBAAIRAxEAPwDYF1aX0gdTK2kBGs8UjpL1KYB5UkfdBIJQZBHFRwMY3Dppl2D8oREka4RQBR0KH//Z"
+    },
+    "retrato-bn.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/retrato-bn-400.avif",
+          "config/mariano-ortin/derived/novios/retrato-bn-800.avif",
+          "config/mariano-ortin/derived/novios/retrato-bn-1200.avif",
+          "config/mariano-ortin/derived/novios/retrato-bn-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/retrato-bn-400.webp",
+          "config/mariano-ortin/derived/novios/retrato-bn-800.webp",
+          "config/mariano-ortin/derived/novios/retrato-bn-1200.webp",
+          "config/mariano-ortin/derived/novios/retrato-bn-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/retrato-bn-400.jpg",
+          "config/mariano-ortin/derived/novios/retrato-bn-800.jpg",
+          "config/mariano-ortin/derived/novios/retrato-bn-1200.jpg",
+          "config/mariano-ortin/derived/novios/retrato-bn-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIxAAAgAFAgcAAAAAAAAAAAAAAQIAAwQhUQUGERUiQVKiwf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDOUlOlSqS2cISwuey8L/ImnSzLCg5N8wztgDm9NbzHqYP1bp1KegsiuQBiA//Z"
+    },
+    "retrato-cerca-bn.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-400.avif",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-800.avif",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.avif",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-400.webp",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-800.webp",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.webp",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-400.jpg",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-800.jpg",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-1200.jpg",
+          "config/mariano-ortin/derived/novios/retrato-cerca-bn-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABgME/8QAHxAAAgICAwADAAAAAAAAAAAAAQMCEQQFABIhFCJh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AD+u1wyUsa4GEIrkYyPnaXN+5RiM1kH42OEFc4rNiuxqyAPzlcPMeddBZYTCMfBQ84ek9nxwrt9Luq4H/9k="
+    },
+    "sombrilla.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/sombrilla-400.avif",
+          "config/mariano-ortin/derived/novios/sombrilla-800.avif",
+          "config/mariano-ortin/derived/novios/sombrilla-1200.avif",
+          "config/mariano-ortin/derived/novios/sombrilla-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/sombrilla-400.webp",
+          "config/mariano-ortin/derived/novios/sombrilla-800.webp",
+          "config/mariano-ortin/derived/novios/sombrilla-1200.webp",
+          "config/mariano-ortin/derived/novios/sombrilla-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/sombrilla-400.jpg",
+          "config/mariano-ortin/derived/novios/sombrilla-800.jpg",
+          "config/mariano-ortin/derived/novios/sombrilla-1200.jpg",
+          "config/mariano-ortin/derived/novios/sombrilla-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIF/8QAJRAAAQMCAwkAAAAAAAAAAAAAAQIDBAARBRIxEyI1UWFxscHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABgRAAIDAAAAAAAAAAAAAAAAAAABAiFB/9oADAMBAAIRAxEAPwC2X3HpUeKgJsRbME6dT9yppGKXzNqUcid0hQJBsazsP45E7+jRTQEyHwNNqrzS40GH/9k="
+    },
+    "barca.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/barca-400.avif",
+          "config/mariano-ortin/derived/novios/barca-800.avif",
+          "config/mariano-ortin/derived/novios/barca-1200.avif",
+          "config/mariano-ortin/derived/novios/barca-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/barca-400.webp",
+          "config/mariano-ortin/derived/novios/barca-800.webp",
+          "config/mariano-ortin/derived/novios/barca-1200.webp",
+          "config/mariano-ortin/derived/novios/barca-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/barca-400.jpg",
+          "config/mariano-ortin/derived/novios/barca-800.jpg",
+          "config/mariano-ortin/derived/novios/barca-1200.jpg",
+          "config/mariano-ortin/derived/novios/barca-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQIF/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQREgUhMTJBcZH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAA//EABgRAAMBAQAAAAAAAAAAAAAAAAACMQEh/9oADAMBAAIRAxEAPwBt+cladY7dpXAVmYaZ6Az1TPzE3I20sOiBHGpDMFP3Wfa3c0CMImC+e9Bn9xUp6A/NTZuQZT//2Q=="
+    },
+    "ancla.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/ancla-400.avif",
+          "config/mariano-ortin/derived/novios/ancla-800.avif",
+          "config/mariano-ortin/derived/novios/ancla-1200.avif",
+          "config/mariano-ortin/derived/novios/ancla-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/ancla-400.webp",
+          "config/mariano-ortin/derived/novios/ancla-800.webp",
+          "config/mariano-ortin/derived/novios/ancla-1200.webp",
+          "config/mariano-ortin/derived/novios/ancla-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/ancla-400.jpg",
+          "config/mariano-ortin/derived/novios/ancla-800.jpg",
+          "config/mariano-ortin/derived/novios/ancla-1200.jpg",
+          "config/mariano-ortin/derived/novios/ancla-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAEF/8QAHxAAAgIBBAMAAAAAAAAAAAAAAQIDEQAEBRIhMVGx/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8AsUTmFollZVQWbY0OsPG51wdomKgNRJYjlQxeiRZNtlkcWx8n3mTtsjojBWocz8yQf//Z"
+    },
+    "patio-piedra.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/patio-piedra-400.avif",
+          "config/mariano-ortin/derived/novios/patio-piedra-800.avif",
+          "config/mariano-ortin/derived/novios/patio-piedra-1200.avif",
+          "config/mariano-ortin/derived/novios/patio-piedra-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/patio-piedra-400.webp",
+          "config/mariano-ortin/derived/novios/patio-piedra-800.webp",
+          "config/mariano-ortin/derived/novios/patio-piedra-1200.webp",
+          "config/mariano-ortin/derived/novios/patio-piedra-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/patio-piedra-400.jpg",
+          "config/mariano-ortin/derived/novios/patio-piedra-800.jpg",
+          "config/mariano-ortin/derived/novios/patio-piedra-1200.jpg",
+          "config/mariano-ortin/derived/novios/patio-piedra-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIxBRMiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBPHrK7a0Aj4+yUhgRVCib/ADJhqMNqZ3PFiWQqR0c2YCRMHv5LZU/WG6qySBnUFmIBNd5ML//Z"
+    },
+    "jardin.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/jardin-400.avif",
+          "config/mariano-ortin/derived/novios/jardin-800.avif",
+          "config/mariano-ortin/derived/novios/jardin-1200.avif",
+          "config/mariano-ortin/derived/novios/jardin-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/jardin-400.webp",
+          "config/mariano-ortin/derived/novios/jardin-800.webp",
+          "config/mariano-ortin/derived/novios/jardin-1200.webp",
+          "config/mariano-ortin/derived/novios/jardin-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/jardin-400.jpg",
+          "config/mariano-ortin/derived/novios/jardin-800.jpg",
+          "config/mariano-ortin/derived/novios/jardin-1200.jpg",
+          "config/mariano-ortin/derived/novios/jardin-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAeEAACAgIDAQEAAAAAAAAAAAABAwIRAAQSIUEjMf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAIRAf/aAAwDAQACEQMRAD8AiZqunvJWEFaJsquJAqvLx9yDUSXBeuZcPeNmsq3nMiwSEu1kGJI/CesTT2GPX9SJkHomIvI41Wif/9k="
+    },
+    "porche.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/porche-400.avif",
+          "config/mariano-ortin/derived/novios/porche-800.avif",
+          "config/mariano-ortin/derived/novios/porche-1200.avif",
+          "config/mariano-ortin/derived/novios/porche-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/porche-400.webp",
+          "config/mariano-ortin/derived/novios/porche-800.webp",
+          "config/mariano-ortin/derived/novios/porche-1200.webp",
+          "config/mariano-ortin/derived/novios/porche-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/porche-400.jpg",
+          "config/mariano-ortin/derived/novios/porche-800.jpg",
+          "config/mariano-ortin/derived/novios/porche-1200.jpg",
+          "config/mariano-ortin/derived/novios/porche-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAfEAEAAgICAgMAAAAAAAAAAAABAgQDEQAhEkEyYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8ADWoSs3itjMmmWlFNHt3wmfDkLdnpDFOQHfro5WpWMtUlLDIjJ0L4i6/eHkrPJN+Upqv3ydwn/9k="
+    },
+    "castillo.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/castillo-400.avif",
+          "config/mariano-ortin/derived/novios/castillo-800.avif",
+          "config/mariano-ortin/derived/novios/castillo-1200.avif",
+          "config/mariano-ortin/derived/novios/castillo-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/castillo-400.webp",
+          "config/mariano-ortin/derived/novios/castillo-800.webp",
+          "config/mariano-ortin/derived/novios/castillo-1200.webp",
+          "config/mariano-ortin/derived/novios/castillo-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/castillo-400.jpg",
+          "config/mariano-ortin/derived/novios/castillo-800.jpg",
+          "config/mariano-ortin/derived/novios/castillo-1200.jpg",
+          "config/mariano-ortin/derived/novios/castillo-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQREiExBUEiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI/M73NzBbxoSdchgeO+fytDFGyPsS2GUfH0O6NtokuFs5Jl2ZY9gT95pZmJZcn0Kkb/2Q=="
+    },
+    "firma.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/firma-400.avif",
+          "config/mariano-ortin/derived/novios/firma-800.avif",
+          "config/mariano-ortin/derived/novios/firma-1200.avif",
+          "config/mariano-ortin/derived/novios/firma-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/firma-400.webp",
+          "config/mariano-ortin/derived/novios/firma-800.webp",
+          "config/mariano-ortin/derived/novios/firma-1200.webp",
+          "config/mariano-ortin/derived/novios/firma-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/firma-400.jpg",
+          "config/mariano-ortin/derived/novios/firma-800.jpg",
+          "config/mariano-ortin/derived/novios/firma-1200.jpg",
+          "config/mariano-ortin/derived/novios/firma-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACEQAAICAQQCAwAAAAAAAAAAAAECAwQRAAUSIRMxIkHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//EABcRAQEBAQAAAAAAAAAAAAAAAAEAESH/2gAMAwEAAhEDEQA/ABuULN6urRgqhxwj6ABHvv70iDc49vjijVPJG/JTyftcHH4ao32xLUsVoq7mOMgkqPWc6xJpWkRA/EgS9fEDQgZ2VW//2Q=="
+    },
+    "piano.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/piano-400.avif",
+          "config/mariano-ortin/derived/novios/piano-800.avif",
+          "config/mariano-ortin/derived/novios/piano-1200.avif",
+          "config/mariano-ortin/derived/novios/piano-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/piano-400.webp",
+          "config/mariano-ortin/derived/novios/piano-800.webp",
+          "config/mariano-ortin/derived/novios/piano-1200.webp",
+          "config/mariano-ortin/derived/novios/piano-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/piano-400.jpg",
+          "config/mariano-ortin/derived/novios/piano-800.jpg",
+          "config/mariano-ortin/derived/novios/piano-1200.jpg",
+          "config/mariano-ortin/derived/novios/piano-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQME/8QAIRABAAICAQMFAAAAAAAAAAAAAQIDABEEEhRRISIxQXH/xAAVAQEBAAAAAAAAAAAAAAAAAAADBP/EABoRAAICAwAAAAAAAAAAAAAAAAABAiEDESL/2gAMAwEAAhEDEQA/ADKuRRKtkRlvfuB2nh/M1cLseNTCVl2rGHqAv3vWC8Oci7pFCcUkeTTlL1Nh8YMlp0UY+lZ//9k="
+    },
+    "novia-sofa.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/novia-sofa-400.avif",
+          "config/mariano-ortin/derived/novios/novia-sofa-800.avif",
+          "config/mariano-ortin/derived/novios/novia-sofa-1200.avif",
+          "config/mariano-ortin/derived/novios/novia-sofa-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/novia-sofa-400.webp",
+          "config/mariano-ortin/derived/novios/novia-sofa-800.webp",
+          "config/mariano-ortin/derived/novios/novia-sofa-1200.webp",
+          "config/mariano-ortin/derived/novios/novia-sofa-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/novia-sofa-400.jpg",
+          "config/mariano-ortin/derived/novios/novia-sofa-800.jpg",
+          "config/mariano-ortin/derived/novios/novia-sofa-1200.jpg",
+          "config/mariano-ortin/derived/novios/novia-sofa-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAhEAACAQQCAgMAAAAAAAAAAAABAgMABAUREjFhkSEyUf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/ACYzGRybZ34EEqW39SOtearxWd0E27I3hu/YqHi5pDi5yWJIbkCf3fdItMleS2hWSdiD8dDfupnX/9k="
+    },
+    "parque.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/parque-400.avif",
+          "config/mariano-ortin/derived/novios/parque-800.avif",
+          "config/mariano-ortin/derived/novios/parque-1200.avif",
+          "config/mariano-ortin/derived/novios/parque-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/parque-400.webp",
+          "config/mariano-ortin/derived/novios/parque-800.webp",
+          "config/mariano-ortin/derived/novios/parque-1200.webp",
+          "config/mariano-ortin/derived/novios/parque-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/parque-400.jpg",
+          "config/mariano-ortin/derived/novios/parque-800.jpg",
+          "config/mariano-ortin/derived/novios/parque-1200.jpg",
+          "config/mariano-ortin/derived/novios/parque-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAIBAAAgEEAQUAAAAAAAAAAAAAAQIRAAMSIQQTMUFhkf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIRAxEAPwALZpiFBiMgfH2sXmudMpcQyIY4rIE7pHGdmQBoInsR6q5dxwhho2BqozQv/9k="
+    },
+    "parque-estanque.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/novios/parque-estanque-400.avif",
+          "config/mariano-ortin/derived/novios/parque-estanque-800.avif",
+          "config/mariano-ortin/derived/novios/parque-estanque-1200.avif",
+          "config/mariano-ortin/derived/novios/parque-estanque-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/novios/parque-estanque-400.webp",
+          "config/mariano-ortin/derived/novios/parque-estanque-800.webp",
+          "config/mariano-ortin/derived/novios/parque-estanque-1200.webp",
+          "config/mariano-ortin/derived/novios/parque-estanque-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/novios/parque-estanque-400.jpg",
+          "config/mariano-ortin/derived/novios/parque-estanque-800.jpg",
+          "config/mariano-ortin/derived/novios/parque-estanque-1200.jpg",
+          "config/mariano-ortin/derived/novios/parque-estanque-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB8QAAIBBAIDAAAAAAAAAAAAAAECAwAEERIFQRUhMf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwA25F4oNtWYsfQC/BUflbhEIlD647Ws03c6QoElYDGKW5MmzOSxx2akqQ2//9k="
+    }
+  },
+  "banquete": {
+    "convite-jardin.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/banquete/convite-jardin-400.avif",
+          "config/mariano-ortin/derived/banquete/convite-jardin-800.avif",
+          "config/mariano-ortin/derived/banquete/convite-jardin-1200.avif",
+          "config/mariano-ortin/derived/banquete/convite-jardin-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/banquete/convite-jardin-400.webp",
+          "config/mariano-ortin/derived/banquete/convite-jardin-800.webp",
+          "config/mariano-ortin/derived/banquete/convite-jardin-1200.webp",
+          "config/mariano-ortin/derived/banquete/convite-jardin-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/banquete/convite-jardin-400.jpg",
+          "config/mariano-ortin/derived/banquete/convite-jardin-800.jpg",
+          "config/mariano-ortin/derived/banquete/convite-jardin-1200.jpg",
+          "config/mariano-ortin/derived/banquete/convite-jardin-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAIhAAAgECBQUAAAAAAAAAAAAAAQIDABIEBREhMRVRYqHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/EABURAQEAAAAAAAAAAAAAAAAAAAAS/9oADAMBAAIRAxEAPwDBfLVSeSIXOy+QH2qdDuhaRcTELeVJJPqkO7XX66N3G1OgZpMMpcliSwJPO3FFF//Z"
+    },
+    "convite-exteriores.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/banquete/convite-exteriores-400.avif",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-800.avif",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-1200.avif",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/banquete/convite-exteriores-400.webp",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-800.webp",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-1200.webp",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/banquete/convite-exteriores-400.jpg",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-800.jpg",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-1200.jpg",
+          "config/mariano-ortin/derived/banquete/convite-exteriores-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgEG/8QAIRAAAgEDAwUAAAAAAAAAAAAAAQIDABEhBAUSEyMyUdH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwDPzaCLrBVmObjwNF9viFuMzgm2Gj+Gg7s+XYk+yajdwjnmoo//2Q=="
+    },
+    "lanzar-ramo.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-400.avif",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-800.avif",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-1200.avif",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-400.webp",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-800.webp",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-1200.webp",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-400.jpg",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-800.jpg",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-1200.jpg",
+          "config/mariano-ortin/derived/banquete/lanzar-ramo-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIE/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQASFAQFQSEjMVFxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAwDAQACEQMRAD8AjX5zW5PIaxscOQBCLo+HmsWTu5kW6c++2jrSqdWXw8VS7dN3M0a3Fyo3Hz+1KvBT/9k="
+    },
+    "tarta.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/banquete/tarta-400.avif",
+          "config/mariano-ortin/derived/banquete/tarta-800.avif",
+          "config/mariano-ortin/derived/banquete/tarta-1200.avif",
+          "config/mariano-ortin/derived/banquete/tarta-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/banquete/tarta-400.webp",
+          "config/mariano-ortin/derived/banquete/tarta-800.webp",
+          "config/mariano-ortin/derived/banquete/tarta-1200.webp",
+          "config/mariano-ortin/derived/banquete/tarta-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/banquete/tarta-400.jpg",
+          "config/mariano-ortin/derived/banquete/tarta-800.jpg",
+          "config/mariano-ortin/derived/banquete/tarta-1200.jpg",
+          "config/mariano-ortin/derived/banquete/tarta-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACMQAAICAQMDBQAAAAAAAAAAAAECAwQRACExEhNBUWFxkbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFREBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhEDEQA/AHWMdomCUR2FclgXPGdwfb81PRistJamtohmcKgHV6eefjWnZAYN1AHB2yNBHVhex3GTLMd9zj640Ca3/9k="
+    },
+    "beso-mejilla.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/banquete/beso-mejilla-400.avif",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-800.avif",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-1200.avif",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/banquete/beso-mejilla-400.webp",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-800.webp",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-1200.webp",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/banquete/beso-mejilla-400.jpg",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-800.jpg",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-1200.jpg",
+          "config/mariano-ortin/derived/banquete/beso-mejilla-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAJBAAAgEDAwMFAAAAAAAAAAAAAQMCAAQRBRIhE2GRIjEyQlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAECUWH/2gAMAwEAAhEDEQA/AJW17YKWlEEdVuPVxwOw/TQdTWWImz6yPxMBHbz7eKy9PZNd6icJYkDkHvStZuGsZHfMnAOPNBy9Gq4f/9k="
+    },
+    "castillo-santa-barbara.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.avif",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.avif",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.avif",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.webp",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.webp",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.webp",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-400.jpg",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-800.jpg",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1200.jpg",
+          "config/mariano-ortin/derived/banquete/castillo-santa-barbara-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAMF/8QAHxAAAgEEAgMAAAAAAAAAAAAAAQIDAAQRIRIiQYHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAaEQACAgMAAAAAAAAAAAAAAAABAgASEyEx/9oADAMBAAIRAxEAPwCMUqyjTQEgZJDNr1ig39xcK3ERow8Bckn7TLU4Gqzp+lwSutkVeR20TFFHBP/Z"
+    },
+    "convite-montana.jpg": {
+      "width": 1600,
+      "height": 900,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/banquete/convite-montana-400.avif",
+          "config/mariano-ortin/derived/banquete/convite-montana-800.avif",
+          "config/mariano-ortin/derived/banquete/convite-montana-1200.avif",
+          "config/mariano-ortin/derived/banquete/convite-montana-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/banquete/convite-montana-400.webp",
+          "config/mariano-ortin/derived/banquete/convite-montana-800.webp",
+          "config/mariano-ortin/derived/banquete/convite-montana-1200.webp",
+          "config/mariano-ortin/derived/banquete/convite-montana-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/banquete/convite-montana-400.jpg",
+          "config/mariano-ortin/derived/banquete/convite-montana-800.jpg",
+          "config/mariano-ortin/derived/banquete/convite-montana-1200.jpg",
+          "config/mariano-ortin/derived/banquete/convite-montana-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAgP/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMABBEFEoETITJBQv/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACQRH/2gAMAwEAAhEDEQA/ADbaiZcoyp1ASDtUkDHNRupJZkYRTGJu/wAAcZJNG18BVLj1U1sbHwcn/9k="
+    }
+  },
+  "proofing/pareja-ejemplo": {
+    "patio-piedra.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-400.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-800.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1200.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/patio-piedra-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EACAQAAICAgICAwAAAAAAAAAAAAECAxEABBIxBRMiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oADAMBAAIRAxEAPwBPHrK7a0Aj4+yUhgRVCib/ADJhqMNqZ3PFiWQqR0c2YCRMHv5LZU/WG6qySBnUFmIBNd5ML//Z"
+    },
+    "jardin.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-400.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-800.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1200.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/jardin-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAwT/xAAeEAACAgIDAQEAAAAAAAAAAAABAwIRAAQSIUEjMf/EABUBAQEAAAAAAAAAAAAAAAAAAAED/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAIRAf/aAAwDAQACEQMRAD8AiZqunvJWEFaJsquJAqvLx9yDUSXBeuZcPeNmsq3nMiwSEu1kGJI/CesTT2GPX9SJkHomIvI41Wif/9k="
+    },
+    "porche.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-400.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-800.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1200.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/porche-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABAX/xAAfEAEAAgICAgMAAAAAAAAAAAABAgQDEQAhEkEyYYH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8ADWoSs3itjMmmWlFNHt3wmfDkLdnpDFOQHfro5WpWMtUlLDIjJ0L4i6/eHkrPJN+Upqv3ydwn/9k="
+    },
+    "castillo.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-400.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-800.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1200.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/castillo-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QAIRAAAgEEAgIDAAAAAAAAAAAAAQIDAAQREiExBUEiUaH/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AI/M73NzBbxoSdchgeO+fytDFGyPsS2GUfH0O6NtokuFs5Jl2ZY9gT95pZmJZcn0Kkb/2Q=="
+    },
+    "lanzar-ramo.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-400.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-800.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1200.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/lanzar-ramo-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwIE/8QAIxAAAQMDAwUBAAAAAAAAAAAAAQIDEQASFAQFQSEjMVFxwf/EABUBAQEAAAAAAAAAAAAAAAAAAAAD/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQf/aAAwDAQACEQMRAD8AjX5zW5PIaxscOQBCLo+HmsWTu5kW6c++2jrSqdWXw8VS7dN3M0a3Fyo3Hz+1KvBT/9k="
+    },
+    "parque-estanque.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.avif",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.webp",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-400.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-800.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1200.jpg",
+          "config/mariano-ortin/derived/proofing/pareja-ejemplo/parque-estanque-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EAB8QAAIBBAIDAAAAAAAAAAAAAAECAwAEERIFQRUhMf/EABUBAQEAAAAAAAAAAAAAAAAAAAID/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oADAMBAAIRAxEAPwA25F4oNtWYsfQC/BUflbhEIlD647Ws03c6QoElYDGKW5MmzOSxx2akqQ2//9k="
+    }
+  },
+  "site": {
+    "hero.jpg": {
+      "width": 1600,
+      "height": 1067,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/site/hero-400.avif",
+          "config/mariano-ortin/derived/site/hero-800.avif",
+          "config/mariano-ortin/derived/site/hero-1200.avif",
+          "config/mariano-ortin/derived/site/hero-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/site/hero-400.webp",
+          "config/mariano-ortin/derived/site/hero-800.webp",
+          "config/mariano-ortin/derived/site/hero-1200.webp",
+          "config/mariano-ortin/derived/site/hero-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/site/hero-400.jpg",
+          "config/mariano-ortin/derived/site/hero-800.jpg",
+          "config/mariano-ortin/derived/site/hero-1200.jpg",
+          "config/mariano-ortin/derived/site/hero-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAALABADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAgMEBf/EACAQAAIBBAEFAAAAAAAAAAAAAAECAwAFESFBBBMUIlH/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIT/9oADAMBAAIRAxEAPwDYF1aX0gdTK2kBGs8UjpL1KYB5UkfdBIJQZBHFRwMY3Dppl2D8oREka4RQBR0KH//Z"
+    },
+    "mariano.jpg": {
+      "width": 1600,
+      "height": 900,
+      "sources": {
+        "avif": [
+          "config/mariano-ortin/derived/site/mariano-400.avif",
+          "config/mariano-ortin/derived/site/mariano-800.avif",
+          "config/mariano-ortin/derived/site/mariano-1200.avif",
+          "config/mariano-ortin/derived/site/mariano-1600.avif"
+        ],
+        "webp": [
+          "config/mariano-ortin/derived/site/mariano-400.webp",
+          "config/mariano-ortin/derived/site/mariano-800.webp",
+          "config/mariano-ortin/derived/site/mariano-1200.webp",
+          "config/mariano-ortin/derived/site/mariano-1600.webp"
+        ],
+        "jpeg": [
+          "config/mariano-ortin/derived/site/mariano-400.jpg",
+          "config/mariano-ortin/derived/site/mariano-800.jpg",
+          "config/mariano-ortin/derived/site/mariano-1200.jpg",
+          "config/mariano-ortin/derived/site/mariano-1600.jpg"
+        ]
+      },
+      "widths": [
+        400,
+        800,
+        1200,
+        1600
+      ],
+      "lqip": "data:image/jpeg;base64,/9j/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAAJABADASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAABQP/xAAiEAEAAgIBAgcAAAAAAAAAAAABAgMABAUREhMxMnFygcH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AE4+mfj6s2lI12CqHSQv5iPP06vZTOqwlIXqCP24Zp+iPxyG/5Hvgf//Z"
+    }
+  }
+}
